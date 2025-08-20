@@ -1,0 +1,5 @@
+{
+  "name": "Financial Report Extractor",
+  "description": "An application to extract structured financial data from reports using AI. Upload PDF or ZIP files to extract tables and export data in various formats.",
+  "requestFramePermissions": []
+}
